@@ -1,2 +1,3 @@
 "this is file" 
 text color is red 
+text color is blue
