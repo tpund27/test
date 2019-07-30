@@ -1,3 +1,0 @@
-"this is file" 
-text color is yellow 
-text color is black
